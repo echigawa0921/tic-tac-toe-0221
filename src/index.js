@@ -64,7 +64,7 @@ function Square(props) {
       if (calculateWinner(squares) || squares[i]) {
         return;
       }
-      squares[i] = this.state.xIsNext ? "あなた" : "越川";
+      squares[i] = this.state.xIsNext ? "○" : "☓";
       this.setState({
         history: history.concat([
           {

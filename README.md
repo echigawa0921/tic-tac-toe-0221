@@ -1,3 +1,33 @@
+# 三目並べゲームApp
+
+じゃんけんアプリ同様Reactの学習のため作成を始めました。  
+3つ角を先に取った方が勝ちという単純明快なゲームです！  
+ただ、作るだけではおもしろくないと、vs作成者になっています！！  
+
+# 見本
+<img width="800" alt="スクリーンショット 2021-04-12 23 03 17" src="https://user-images.githubusercontent.com/69971834/114407701-a4d16580-9be3-11eb-9595-a4ed4b975731.png">
+
+
+
+
+# 環境
+React
+Typescript
+
+# 機能一覧
+・リザルト表示機能  
+・勝者表示機能  
+
+# 使い方
+①2人で遊んでください。    
+②○・☓どちらにするかを決めてください。    
+③下記のように、先に3つ獲得した方の勝ちです。  
+<img width="800" alt="スクリーンショット 2021-04-12 23 03 34" src="https://user-images.githubusercontent.com/69971834/114408148-190c0900-9be4-11eb-821e-a4a0107561fa.png">
+
+
+# 作成者
+yuki.Echigawa
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

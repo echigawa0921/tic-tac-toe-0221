@@ -11,7 +11,7 @@
 
 
 # 環境
-React. 
+React.   
 Typescript
 
 # 機能一覧

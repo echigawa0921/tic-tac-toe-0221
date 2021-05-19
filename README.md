@@ -2,7 +2,9 @@
 
 じゃんけんアプリ同様Reactの学習のため作成を始めました。  
 3つ角を先に取った方が勝ちという単純明快なゲームです！  
-ただ、作るだけではおもしろくないと、vs作成者になっています！！  
+ただ、作るだけではおもしろくないと、vs作成者になっています！！   
+   
+   リンク：https://master.d3ecvcqyj60hju.amplifyapp.com/
 
 # 見本
 <img width="800" alt="スクリーンショット 2021-04-12 23 03 17" src="https://user-images.githubusercontent.com/69971834/114407701-a4d16580-9be3-11eb-9595-a4ed4b975731.png">
